@@ -1,0 +1,19 @@
+{
+    "server":
+    {
+        "ip": "0.0.0.0",
+        "port": 12345,
+        "buffer_size": 2048,
+        "api_key": "bc182bc090a7fcbfbd55eed1cc8d4636f5ebf5546e19bf7243836dc06575695d",
+        "logfile": "server.log"
+    },
+    "client":
+    {
+        "ip": "127.0.0.1",
+        "port": 12345,
+        "buffer_size": 2048,
+        "directory_path": "C:\\Users\\USER\\Downloads\\",
+        "files_logfile": "answers.txt",
+        "logfile": "client.log"
+    }
+}
