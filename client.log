@@ -1,0 +1,11 @@
+2022-01-07 01:42:55,064 Connecting to the server
+2022-01-07 01:42:55,065 connection established
+2022-01-07 01:42:55,065 waiting for directory changes
+2022-01-07 01:43:49,653 added a directory change
+2022-01-07 01:43:49,653 reading a new file
+2022-01-07 01:43:49,653 waiting for directory changes
+2022-01-07 01:43:49,654 sending packets amount
+2022-01-07 01:43:49,655 receiving ok
+2022-01-07 01:43:49,655 sending the file
+2022-01-07 01:43:49,774 receiving report
+2022-01-07 01:44:02,687 writing report
