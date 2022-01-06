@@ -1,0 +1,2 @@
+Books(14).exe: {'harmless': 0, 'type-unsupported': 4, 'suspicious': 0, 'confirmed-timeout': 0, 'timeout': 1, 'failure': 1, 'malicious': 2, 'undetected': 64}
+Books(15).exe: {'harmless': 0, 'type-unsupported': 4, 'suspicious': 0, 'confirmed-timeout': 0, 'timeout': 1, 'failure': 1, 'malicious': 2, 'undetected': 64}
