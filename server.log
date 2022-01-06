@@ -1,0 +1,13 @@
+2022-01-07 01:42:48,587 Waiting for client
+2022-01-07 01:42:55,065 ('127.0.0.1', 52538) joined
+2022-01-07 01:42:55,065 receiving the file...
+2022-01-07 01:43:49,867 file received
+2022-01-07 01:43:49,867 saving the file
+2022-01-07 01:43:50,044 scanning the file
+2022-01-07 01:43:50,044 Using proactor: IocpProactor
+2022-01-07 01:44:02,070 analysis address received analysis YWUyYmU4ODEwMGQ4YjU2NDVkMTJmM2ZlMzcyMmIzYmM6MTY0MTUxMTk5MA==
+2022-01-07 01:44:02,070 getting the analysis
+2022-01-07 01:44:02,686 analysis recieved {'harmless': 0, 'type-unsupported': 4, 'suspicious': 0, 'confirmed-timeout': 0, 'timeout': 1, 'failure': 1, 'malicious': 2, 'undetected': 64}
+2022-01-07 01:44:02,687 sending the report
+2022-01-07 01:44:02,687 report sent
+2022-01-07 01:44:02,687 receiving the file...
